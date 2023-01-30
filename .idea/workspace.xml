@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f3d7925-3fc9-4102-87fa-6e4a3eca2981" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example1.plantuml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example2_SequenceDiagram.plantuml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example3_InteractionDiagram.plantuml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example4_UseCaseDiagram.plantuml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example5_ClassDiagram.plantuml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +27,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Proyectos/Cursos/Buenas practicas/StepVerifier/demo"
   }
 }]]></component>
   <component name="RunManager">
